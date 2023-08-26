@@ -10,4 +10,5 @@ rustup component add \
 
 cargo install \
     cargo-watch \
-    cargo-udeps --locked
+    cargo-udeps \
+    cargo-deny --locked
