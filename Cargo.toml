@@ -8,6 +8,6 @@ path = "src/lib.rs"
 
 [[bin]]
 path = "src/main.rs"
-name = "thing"
+name = "app"
 
 [dependencies]

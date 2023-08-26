@@ -1,0 +1,9 @@
+.env
+.dockerignore
+.github
+target/
+scripts/
+Dockerfile
+deny.toml
+LICENSE
+README.md
