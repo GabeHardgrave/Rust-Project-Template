@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 
 rustup toolchain install \
-    nightly \
-    beta
+    nightly
 
 rustup component add \
     clippy \
